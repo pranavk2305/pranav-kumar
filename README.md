@@ -35,5 +35,11 @@ I'm a student at **K.R. Mangalam University**, learning programming and building
 - Strengthen programming fundamentals
 - Develop a strong foundation in AI and ML
 
+## Connect With Me
+
+- **LinkedIn:** [Pranav Kumar](https://www.linkedin.com/in/pranav-kumar-b13126406/)
+- **GitHub:** [pranavk2305](https://github.com/pranavk2305)
+- **Email:** pranavk23911@gmail.com
+
 ---
 *Always learning, building, and improving.*
