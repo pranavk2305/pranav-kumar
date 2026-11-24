@@ -10,10 +10,15 @@ I'm a student at **K.R. Mangalam University**, learning programming and building
 - Interested in Artificial Intelligence, Machine Learning, and problem-solving
 - Exploring software development through practical projects
 
-## 🛠️ Technical Skills
-- **Languages:** Python (Beginner)
-- **Tools:** Git, GitHub, Linux (Nobara)
-- **Currently Learning:** Programming fundamentals and web development
+## Technical Skills
+
+| Category | Skills |
+|---|---|
+| Programming | Python, C |
+| Operating Systems | Linux (Nobara) |
+| Version Control | Git, GitHub |
+| Web Development | HTML, CSS, JavaScript |
+| Other | Shell Scripting, Problem Solving |
 
 ## 📂 Projects
 - **CSE103 Lab 3:** Linux, shell scripting, Python, and Git practice  
