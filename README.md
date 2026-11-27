@@ -4,8 +4,13 @@
 
 I'm a student at **K.R. Mangalam University**, learning programming and building my skills in technology.
 
-## 🎓 About Me
-- Currently pursuing B.Tech in Artificial Intelligence & Machine Learning
+### 🎓 Education
+- **University:** K.R. Mangalam University
+- **Degree:** B.Tech in Artificial Intelligence & Machine Learning
+- **Batch:** 2026–30
+- **Location:** Gurugram, Haryana, India
+
+### 👨‍💻 About Me
 - Learning Python, Linux, and Git
 - Interested in Artificial Intelligence, Machine Learning, and problem-solving
 - Exploring software development through practical projects
