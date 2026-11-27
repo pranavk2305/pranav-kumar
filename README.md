@@ -22,7 +22,7 @@ I'm a student at **K.R. Mangalam University**, learning programming and building
 
 ## 📂 Projects
 - **CSE103 Lab 3:** Linux, shell scripting, Python, and Git practice  
-  [View my repository](PASTE_YOUR_LAB3_REPOSITORY_LINK_HERE)
+  [View my repository](https://github.com/pranavk2305/cse103-lab-LAB3)
 
 ## 🌱 Currently Working On
 - Improving Python programming skills
